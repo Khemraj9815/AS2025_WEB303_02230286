@@ -8,8 +8,6 @@ This report describes my approach, steps taken, and challenges encountered while
 
 ## Approach & Steps Taken
 
-### 1. **Project Setup**
-
 - Created a new directory: `go-microservices-demo`
 - Structured the project as instructed:
     ```
@@ -88,15 +86,15 @@ This report describes my approach, steps taken, and challenges encountered while
 ## Screenshots
 
 1. **Consul UI with Both Services Registered and Healthy**  
-   ![Consul UI](../assets/consul_healthy.png)
-   ![inside consul](../assets/consul-user_services.png)
-   ![product service](../assets/consul-product_services.png)
+   ![Consul UI](./assets/consul_healthy.png)
+   ![inside consul](./assets/consul-user_services.png)
+   ![product service](./assets/consul-product_services.png)
 
 2. **Requests via Postman/cURL**  
    ![postman result](../assets/postman-request.png)
    ![curl result](../assets/curl-result.png)
 3. **API Gateway Terminal Output**  
-![api gateway request](../assets/api-request.png)
+![api gateway request](./assets/api-request.png)
 
 ---
 
