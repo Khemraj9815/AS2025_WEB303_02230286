@@ -91,8 +91,8 @@ This report describes my approach, steps taken, and challenges encountered while
    ![product service](./assets/consul-product_services.png)
 
 2. **Requests via Postman/cURL**  
-   ![postman result](../assets/postman-request.png)
-   ![curl result](../assets/curl-result.png)
+   ![postman result](./assets/postman-request.png)
+   ![curl result](./assets/curl-result.png)
 3. **API Gateway Terminal Output**  
 ![api gateway request](./assets/api-request.png)
 
