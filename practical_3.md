@@ -68,4 +68,3 @@ From this practical, I learned how to design and implement a **microservices sys
 
 This practical gave me strong foundational knowledge of **modern distributed system design** and how different components (DB, service registry, gateway) integrate together.  
 
----
